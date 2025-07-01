@@ -1,5 +1,5 @@
 # Demo
-This a demo repo, just for learning....
+This is a demo repo, just for learning and testing....
 <br>
 Author - Rupak Bhabak
 <br>
